@@ -1,5 +1,6 @@
 # README
 
 <html>
-<div><button name="button">HELLO WORLD!</button></div>
+<div><button style="color:red">HELLO WORLD!</button>
+</div>
 </html>

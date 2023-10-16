@@ -1,5 +1,5 @@
 # README
 
 <html>
-<div><type ="button">HELLO WORLD!</div>
+<div><button name="button">HELLO WORLD!</div>
 </html>
